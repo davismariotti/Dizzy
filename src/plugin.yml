@@ -1,0 +1,9 @@
+name: Dizzy
+main: me.gomeow.dizzy.dizzy
+version: 1.0
+description: Time for dizzification!
+commands:
+  dizzy:
+    description: Makes you or said player dizzy!
+  cure:
+    description: Revives you of all effects!
